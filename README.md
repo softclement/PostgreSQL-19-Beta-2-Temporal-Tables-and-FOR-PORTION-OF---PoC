@@ -442,11 +442,3 @@ This PoC successfully validated:
 - Point-in-time querying
 
 and demonstrates how PostgreSQL can now manage temporal business data with significantly less application-side complexity.
-
----
-
-## Author
-
-**Mariyan Clement Swaminathan**
-
-PostgreSQL SME | Oracle PL/SQL SME | Database Enthusiast
